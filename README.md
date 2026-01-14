@@ -1,4 +1,5 @@
 ## Hi there 👋
+### i am a student of bachelors in superior university and my major is Data Science
 
 <!--
 **Hafiz-Hamza-Dar/Hafiz-Hamza-Dar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
